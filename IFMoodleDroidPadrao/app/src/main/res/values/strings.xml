@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IFMoodleDroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="ifpe_site">http://www.ifpe.edu.br</string>
+    <string name="str_login">Nome do usuário:</string>
+    <string name="str_senha">Senha:</string>
+    <string name="str_lembrar_usuario">Lembrar Usuário</string>
+    <string name="str_acessar">Acessar</string>
+    <string name="str_sair">Sair</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_noticias">NoticiasActivity</string>
+    <string name="title_activity_cursos">CursosActivity</string>
+    <string name="title_activity_contatos">ContatosActivity</string>
+    <string name="title_activity_foruns">ForunsActivity</string>
+    <string name="title_activity_topicos_forum">TopicosForum</string>
+    <string name="title_activity_discussao">DiscussaoActivity</string>
+    <string name="title_activity_semanas">SemanasActivity</string>
+</resources>
